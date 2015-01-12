@@ -1,6 +1,6 @@
 /*
 	Tip #7
-	Keep a running total.
+	Calculate a running total.
 
 	WARNING: This technique can be pretty resource intensive.
 */
